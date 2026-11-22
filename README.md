@@ -13,7 +13,7 @@ Análisis con Python (pandas y NumPy) del dataset
 
 ## Cómo ejecutarlo
 
-1. Abre la libreta en Colab: **[https://colab.research.google.com/]**
+1. Abre la libreta en Colab: [Abrir en Google Colab](https://colab.research.google.com/drive/1m_ywkgJ20ug2yRnMaSbAcvfNqWoUaCjq?usp=sharing)
 2. Ejecuta todo (`Entorno de ejecución > Ejecutar todo`).
    La libreta descarga el dataset con `kagglehub`; si falla, pide subir `country_vaccinations.csv`.
 
